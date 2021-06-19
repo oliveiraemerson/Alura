@@ -10,9 +10,9 @@ C:\Projetos\Edesoft\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.AssemblyReference.cache
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
-C:\Projetos\Alura\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.AssemblyReference.cache

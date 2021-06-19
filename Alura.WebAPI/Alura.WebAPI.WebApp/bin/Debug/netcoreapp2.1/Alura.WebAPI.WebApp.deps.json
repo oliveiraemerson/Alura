@@ -33,6 +33,7 @@
           "Alura.WebAPI.Model": "1.0.0",
           "Alura.WebAPI.Seguranca": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.0",
+          "Microsoft.AspNetCore.Mvc.Formatters.Xml": "2.1.0",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.0"
         },
